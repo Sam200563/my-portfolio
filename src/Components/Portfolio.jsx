@@ -31,28 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "YouTube Clone",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Building a full-stack video platform using MERN Stack.Key features include user authentication, video upload/playback, premium plan upgrades via Razorpay, and daily download limits.",
+    url: "https://github.com/Sam200563/Your-Tube",
   },
   {
-    title: "Web Development for Beginners",
+    title: "RoadTrip Planner",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A full-stack travel planning app built with React, Node.js, and MongoDB. Features include trip creation, recent trips display, photo uploads, editable stops, and a personalized user profile page.",
+    url: "https://github.com/Sam200563/RoadTripMap",
   },
   {
-    title: "My Resume Site",
+    title: "URL Shortener",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A full-stack URL shortener with free and premium plans. Free users can create up to 10 short links, while premium users get extended limits with subscription plans. Built using React, Node.js, and MongoDB.",
+    url: "https://github.com/Sam200563/URL-Shortener-Service",
   },
 ];
 

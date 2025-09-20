@@ -24,20 +24,23 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a BScIT graduate student. I am passionate about building web application.I enjoy creating unique and simplistic user interfaces in creative ways.Looking New Opportunites";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "React.js",
+  "Node.js",
+  "MongoDB",
+  "UI/UX Design",
+  "JavaScript",
+  "Tailwind CSS",
+  "Bootstrap",
+  "WordPress"
 ];
+
 
 /**
  * Use this to give more information about what you are passionate about,
@@ -45,7 +48,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I’m passionate about building innovative solutions with a blend of creativity and technology. With skills in React, Node.js, MongoDB, and UI/UX design, I focus on creating seamless, user-friendly experiences while making technology accessible to all.";
 
 const About = () => {
   return (
